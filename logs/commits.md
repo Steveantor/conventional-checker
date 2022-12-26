@@ -18,3 +18,5 @@ fix: build error on fresh yarn.lock file
 
 build: update yarn.lock
 >build: committed the yarn.lock as per the new package.json
+
+refactor: deploy scripts

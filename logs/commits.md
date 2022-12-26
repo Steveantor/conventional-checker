@@ -20,3 +20,5 @@ build: update yarn.lock
 >build: committed the yarn.lock as per the new package.json
 
 refactor: deploy scripts
+
+refactor(contracts): deploy scripts
